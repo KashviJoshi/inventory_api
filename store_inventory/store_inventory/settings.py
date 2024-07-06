@@ -133,4 +133,4 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 # Security settings
 DEBUG = False
-ALLOWED_HOSTS = ['kashvijoshi.com']
+ALLOWED_HOSTS = ['inventory-api-9jsc.onrender.com']
